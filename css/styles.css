@@ -205,8 +205,6 @@ font-family: 'Raleway', sans-serif;
   margin-bottom: 8px;
 }
 
-.our-line-icons {}
-
 .our-line-title {
   color: var(--second-title-color);
   margin-bottom: 8px;
@@ -241,6 +239,7 @@ font-family: 'Raleway', sans-serif;
 
 .examples-item {
   width: calc((100% - 48px) / 3);
+  border: 1px solid #E7E9FC;
 }
 
 /*-----------------------TEAM----------------------*/
